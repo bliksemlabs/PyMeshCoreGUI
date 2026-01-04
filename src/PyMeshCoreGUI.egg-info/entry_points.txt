@@ -1,0 +1,2 @@
+[console_scripts]
+meshcore-gui = meshcore_gui.main:main

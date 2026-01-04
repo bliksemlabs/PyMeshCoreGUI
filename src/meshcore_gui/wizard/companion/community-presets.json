@@ -1,0 +1,133 @@
+{
+  "version": "community-presets-1.0",
+  "source": "MeshCore mobile app – community suggested presets",
+  "notes": "These presets are community-suggested RF settings as exposed in the MeshCore app UI. They are not guaranteed to be legally valid in all regions.",
+  "presets": [
+    {
+      "id": "australia",
+      "name": "Australia",
+      "region": "Australia",
+      "frequency_mhz": 915.800,
+      "spreading_factor": 10,
+      "bandwidth_khz": 250,
+      "coding_rate": 5
+    },
+    {
+      "id": "australia_victoria",
+      "name": "Australia: Victoria",
+      "region": "Australia",
+      "frequency_mhz": 916.575,
+      "spreading_factor": 7,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 8
+    },
+    {
+      "id": "eu_uk_narrow",
+      "name": "EU/UK (Narrow)",
+      "region": "EU/UK",
+      "frequency_mhz": 869.618,
+      "spreading_factor": 8,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 8
+    },
+    {
+      "id": "eu_uk_long_range",
+      "name": "EU/UK (Long Range)",
+      "region": "EU/UK",
+      "frequency_mhz": 869.525,
+      "spreading_factor": 11,
+      "bandwidth_khz": 250,
+      "coding_rate": 5
+    },
+    {
+      "id": "eu_uk_medium_range",
+      "name": "EU/UK (Medium Range)",
+      "region": "EU/UK",
+      "frequency_mhz": 869.525,
+      "spreading_factor": 10,
+      "bandwidth_khz": 250,
+      "coding_rate": 5
+    },
+    {
+      "id": "czech_republic_narrow",
+      "name": "Czech Republic (Narrow)",
+      "region": "Czech Republic",
+      "frequency_mhz": 869.525,
+      "spreading_factor": 7,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 5
+    },
+    {
+      "id": "eu_433_long_range",
+      "name": "EU 433MHz (Long Range)",
+      "region": "EU 433MHz",
+      "frequency_mhz": 433.650,
+      "spreading_factor": 11,
+      "bandwidth_khz": 250,
+      "coding_rate": 5
+    },
+    {
+      "id": "new_zealand",
+      "name": "New Zealand",
+      "region": "New Zealand",
+      "frequency_mhz": 917.375,
+      "spreading_factor": 11,
+      "bandwidth_khz": 250,
+      "coding_rate": 5
+    },
+    {
+      "id": "new_zealand_narrow",
+      "name": "New Zealand (Narrow)",
+      "region": "New Zealand",
+      "frequency_mhz": 917.375,
+      "spreading_factor": 7,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 5
+    },
+    {
+      "id": "portugal_433",
+      "name": "Portugal 433",
+      "region": "Portugal",
+      "frequency_mhz": 433.375,
+      "spreading_factor": 9,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 6
+    },
+    {
+      "id": "portugal_868",
+      "name": "Portugal 868",
+      "region": "Portugal",
+      "frequency_mhz": 869.618,
+      "spreading_factor": 7,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 6
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "region": "Switzerland",
+      "frequency_mhz": 869.618,
+      "spreading_factor": 8,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 8
+    },
+    {
+      "id": "usa_canada_recommended",
+      "name": "USA/Canada (Recommended)",
+      "region": "USA/Canada",
+      "frequency_mhz": 910.525,
+      "spreading_factor": 7,
+      "bandwidth_khz": 62.5,
+      "coding_rate": 5
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "region": "Vietnam",
+      "frequency_mhz": 920.250,
+      "spreading_factor": 11,
+      "bandwidth_khz": 250,
+      "coding_rate": 5
+    }
+  ]
+}
