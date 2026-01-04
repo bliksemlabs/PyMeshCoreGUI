@@ -44,7 +44,7 @@ uv sync
 ## Running
 
 ```bash
-uv run meshcore_gui
+uv run meshcore-gui
 ```
 
 ---
